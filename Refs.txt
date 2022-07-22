@@ -1,0 +1,19 @@
+
+
+$ npx tsc 01-hello.ts
+→Compilador
+
+$ npx tsc demo.ts --target es6
+
+
+$ npx tsc src/*.ts --target es6 --outDir dist
+
+
+55555555555555555555555555555555555555555555555
+
+
+npm init -y
+$ npm i typescript --save-dev
+$ npx tsc --version
+
+  514  rm -rf .git
