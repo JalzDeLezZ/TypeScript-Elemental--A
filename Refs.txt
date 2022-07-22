@@ -1,5 +1,14 @@
 
 
+
+================== thirteen ========================
+
+  515  npx tsc --watch
+  500  node dist/05.booleans.js
+
+  512  git push origin --all
+
+
 $ npx tsc 01-hello.ts
 →Compilador
 
