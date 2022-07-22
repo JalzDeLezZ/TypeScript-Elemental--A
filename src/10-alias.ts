@@ -22,6 +22,6 @@
 
   greeting(1234, "S");
   greeting("ASDFASDF", "M");
-  // greeting(true, "M"); // error
+  // greeting(true, "M"); 
 
 })();
