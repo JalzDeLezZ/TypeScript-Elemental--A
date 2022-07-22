@@ -6,13 +6,13 @@
   let customerAge: number = 28;
   customerAge = customerAge;
 
-  let productInStock: number;
+  // let productInStock: number;
 
-  console.log('productInStock', productInStock);
+  // console.log('productInStock', productInStock);
 
-  if (productInStock > 19) {
-    console.log('Product in stock');
-  }
+  // if (productInStock > 19) {
+  //   console.log('Product in stock');
+  // }
 
   let discount = parseInt('123ASD');
   console.log('discount', discount);
@@ -29,5 +29,5 @@
   console.log('bin', bin);
 
   const myNumber: number = 123;
-  
+
 })();
